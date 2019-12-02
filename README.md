@@ -4,7 +4,8 @@ That programm is a simple imitation how CPU how to work
 To compile project you have to :
   1) git clone git@github.com:JayTaddy/CPU_Imitation.git CPU_Imitation
   2) cd CPU_Imitation
-  3) git checkout /branch with a version you want to use/
+  3) open commands.txt and enter the commands you want to use (different versions has more and more commands)
+  4) git checkout /branch with a version you want to use/
   4) g++ -Werror /and all flags you want to use/ main.cpp
   5) ./a.out (or other .out that you have named/
   
